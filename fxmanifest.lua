@@ -28,7 +28,7 @@ client_scripts {
     , "gtav/michael.lua"
     , "gtav/north_yankton.lua"
     , "gtav/red_carpet.lua"
-    , "gtav/simeon.lua"
+    --, "gtav/simeon.lua"
     , "gtav/stripclub.lua"
     , "gtav/trevors_trailer.lua"
     , "gtav/ufo.lua"
@@ -127,7 +127,7 @@ client_scripts {
     , "dlc_security/office4.lua"
 
     -- DLC The Criminal Enterprises (Requires forced build 2699 or higher)
-    , "gta_mpsum2/simeonfix.lua"
+    --, "gta_mpsum2/simeonfix.lua"
     , "gta_mpsum2/vehicle_warehouse.lua"
     , "gta_mpsum2/warehouse.lua"
 
