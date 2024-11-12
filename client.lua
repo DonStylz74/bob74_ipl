@@ -180,7 +180,7 @@ CreateThread(function()
     -- =------------------- [DLC: The Criminal Enterprise] ---------------------=
     -- ====================================================================
     if GetGameBuildNumber() >= 2699 then
-        CriminalEnterpriseSmeonFix.LoadDefault() -- -50.2248, -1098.8325, 26.049742
+        -- CriminalEnterpriseSmeonFix.LoadDefault() -- -50.2248, -1098.8325, 26.049742
         CriminalEnterpriseVehicleWarehouse.LoadDefault() -- 800.13696, -3001.4297, -65.14074
         CriminalEnterpriseWarehouse.LoadDefault() -- 849.1047, -3000.209, -45.974354
     end
