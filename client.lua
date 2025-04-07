@@ -7,7 +7,7 @@ CreateThread(function()
     Michael.LoadDefault()
 
     -- Simeon: -47.16170 -1115.3327 26.5
-    Simeon.LoadDefault()
+    -- Simeon.LoadDefault()
 
     -- Franklin's aunt: -9.96562, -1438.54, 31.1015
     FranklinAunt.LoadDefault()
